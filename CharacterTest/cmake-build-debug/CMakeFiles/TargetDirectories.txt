@@ -1,0 +1,3 @@
+C:/Users/David Work/Desktop/Dreamer Universe projects/DreamerUniverse-CharacterTest/CharacterTest/cmake-build-debug/CMakeFiles/CharacterTest.dir
+C:/Users/David Work/Desktop/Dreamer Universe projects/DreamerUniverse-CharacterTest/CharacterTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/David Work/Desktop/Dreamer Universe projects/DreamerUniverse-CharacterTest/CharacterTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David Work/Desktop/Dreamer Universe projects/DreamerUniverse-CharacterTest/CharacterTest/CharacterTest/CharacterComponents.h
+flecs.h
+C:/Users/David Work/Desktop/Dreamer Universe projects/DreamerUniverse-CharacterTest/CharacterTest/CharacterTest/flecs.h
+
+C:/Users/David Work/Desktop/Dreamer Universe projects/DreamerUniverse-CharacterTest/CharacterTest/CharacterTest/Characters.cpp
+Characters.h
+C:/Users/David Work/Desktop/Dreamer Universe projects/DreamerUniverse-CharacterTest/CharacterTest/CharacterTest/Characters.h
+
+C:/Users/David Work/Desktop/Dreamer Universe projects/DreamerUniverse-CharacterTest/CharacterTest/CharacterTest/Characters.h
+flecs.h
+C:/Users/David Work/Desktop/Dreamer Universe projects/DreamerUniverse-CharacterTest/CharacterTest/CharacterTest/flecs.h
+CharacterComponents.h
+C:/Users/David Work/Desktop/Dreamer Universe projects/DreamerUniverse-CharacterTest/CharacterTest/CharacterTest/CharacterComponents.h
+
+C:/Users/David Work/Desktop/Dreamer Universe projects/DreamerUniverse-CharacterTest/CharacterTest/CharacterTest/flecs.h
+time.h
+-
+stdlib.h
+-
+assert.h
+-
+stdarg.h
+-
+string.h
+-
+stdio.h
+-
+limits.h
+-
+string.h
+-
+stdint.h
+-
+stdbool.h
+-
+initializer_list
+-
+initializer_list
+-
+utility
+-
+stdarg.h
+-
+errno.h
+-
+malloc.h
+-
+stdlib.h
+-
+alloca.h
+-
+type_traits
+-
+
